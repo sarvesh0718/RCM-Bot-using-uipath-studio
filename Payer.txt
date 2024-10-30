@@ -1,0 +1,725 @@
+﻿1199 National Benefit Fund
+AARP Medicare Complete (Secure Horizons)
+Absolute Total Care
+Administrative Services, Inc
+Advantage (Centene)
+Aetna
+Aetna (Medicare Advantage)
+Aetna Affordable Health Choices (SM) - SRC
+Aetna Better Health Medicaid Pennsylvania
+Aetna Better Health of Florida
+Aetna Better Health of Illinois
+Aetna Better Health of Kentucky
+Aetna Better Health of Louisiana
+Aetna Better Health of Maryland
+Aetna Better Health of Michigan
+Aetna Better Health of New Jersey
+Aetna Better Health of Virginia
+Aetna Better Health of West Virginia
+Aetna Better Health Ohio (MyCareOhio)
+Aetna Health and Life Insurance Company
+Aetna Medicaid Texas and CHIP
+Aetna Senior Supplemental
+Aetna Student Health
+All Savers Insurance (United HealthOne)
+Allegiance Benefit Plan Management, Inc
+Allied Benefit Systems Incorporated
+Aloha Care
+Ambetter from Buckeye Health Plan (Marketplace)
+Ambetter of Arkansas
+AmeriBen Solutions, Inc
+Americaid Community Care (Maryland)
+Americaid Community Care (New Jersey)
+American Continental Insurance
+American Family Life Assurance Company (AFLAC)
+American General
+American National Insurance Company (ANICO)
+American National Life Insurance Company of Texas
+AmeriChoice of Pennsylvania Medicaid / CHIP
+Amerigroup
+Amerigroup (Medicare Advantage)
+AmeriHealth Administrators
+Amerihealth Caritas Delaware
+AmeriHealth Caritas Louisiana (formerly LaCare)
+Amerihealth Caritas North Carolina
+AmeriHealth Caritas PA Community HealthChoices
+Amerihealth Caritas Pennsylvania
+AmeriHealth District of Columbia
+Anthem BC California
+Anthem BC Vivity
+Anthem BCBS Colorado
+Anthem BCBS Connecticut
+Anthem BCBS Georgia
+Anthem BCBS Indiana
+Anthem BCBS Indiana (Medicare Advantage)
+Anthem BCBS Kentucky
+Anthem BCBS Maine
+Anthem BCBS Medicaid Ohio MCE
+Anthem BCBS Missouri
+Anthem BCBS Nevada
+Anthem BCBS New Hampshire
+Anthem BCBS Ohio
+Anthem BCBS Ohio (Medicare Advantage)
+Anthem BCBS Virginia
+Anthem BCBS Wisconsin
+Anthem Blue Medicare Advantage
+Anthem Medicaid Nevada
+APWU Health Plan (Virgin Islands)
+Arizona Complete Health - Complete Care Plan
+Ascension Complete
+ASR Corporation
+Asuris Northwest Health
+AultCare
+Author by Humana Medicare Advantage(DOS Prior to 06.01.2022)
+Automated Benefit Services
+Avera Health Plans
+AvMed, Inc
+Bankers Fidelity Life Insurance Company
+Bankers Life and Casualty
+Banner Aetna Health Insurance Company
+Banner University Family Care (Univ of Arizona Health Plans)
+Baycare Plus
+BC Idaho
+BCBS Alabama
+BCBS Arizona
+BCBS Arkansas
+BCBS Florida - Florida Blue
+BCBS Illinois
+BCBS Kansas
+BCBS Kansas City Administrative Services of Kansas (ASK)
+BCBS Louisiana
+BCBS Massachusetts
+BCBS Michigan
+BCBS Michigan (Medicare Advantage)
+BCBS Michigan FEP
+BCBS Michigan HMO / BCN
+BCBS Minnesota
+BCBS Minnesota Blue Plus Medicaid
+BCBS Mississippi
+BCBS Montana
+BCBS Nebraska
+BCBS New Mexico
+BCBS New York Western Medicaid
+BCBS North Carolina
+BCBS North Dakota
+BCBS Oklahoma
+BCBS Rhode Island
+BCBS South Carolina
+BCBS Tennessee
+BCBS Texas
+BCBS Texas Medicaid STAR CHIP
+BCBS Texas Medicaid STAR Kids
+BCBS Vermont
+BCBS Wyoming
+Bind Benefits, Inc.
+Blue Cross Community Health Plans
+Blue Cross Illinois (Medicare Advantage)
+Blue Cross Montana (Medicare Advantage)
+Blue Cross New Mexico (Medicare Advantage)
+Blue Cross Oklahoma (Medicare Advantage)
+Blue Cross Texas (Medicare Advantage)
+BlueChoice HealthPlan BCBS South Carolina
+Boon-Chapman Benefit Administrators
+Boston Medical Center Health Plan
+Braven Health
+BridgeSpan
+Bridgeway Arizona
+Bright Health Plan
+Bright Health Plan (Medicare Advantage)
+BS California
+Buckeye Health Plan (Medicaid Ohio - DOS Prior to 1.1.2023)
+Buckeye Health Plan (Medicare Advantage)
+Buckeye Health Plan - MyCare Ohio (Medicare Advantage)
+Cal-Optima Direct
+Cal-Optima Direct (Medicare Advantage)
+California Health and Wellness
+Capital BC Pennsylvania
+Capital Community Health Plan
+Capital District Physicians Health Plan (CDPHP)
+Capital District Physicians Health Plan (Medicare Advantage)
+Capitol Administrators
+Care 1st Health Plan Arizona
+Care Improvement Plus
+Care N Care (Medicare Advantage)
+CareFirst BCBS Maryland
+CareFirst BCBS NCA and Medicare Advantage (All Regions)
+Carelon Behavioral Health
+CareMore IPA
+CarePlus (Medicare Advantage)
+Caresource Arkansas
+CareSource Community Transition Program Ohio
+CareSource Indiana (Medicare Advantage)
+CareSource Kentucky (Medicare Advantage) DOS Prior 1.1.2020
+CareSource Marketplace (Just4Me) Indiana
+CareSource Marketplace (Just4Me) Kentucky
+CareSource Marketplace (Just4Me) Ohio
+CareSource Marketplace (Just4Me) West Virginia
+CareSource Medicaid Georgia
+CareSource Medicaid Indiana Healthy Indiana Plan (HIP)
+CareSource Medicaid Indiana Hoosier Healthwise (HHW)
+CareSource Medicaid Ohio
+CareSource MyCare Ohio
+CareSource Ohio (Medicare Advantage)
+Carolina Complete Health
+Carpenters Benefit Plan
+CeltiCare
+CenCal Health
+Cenpatico Behavioral Health (Medicaid IL MCO)
+Cenpatico Behavioral Health Arizona (DOS Prior to 10.1.2018)
+Cenpatico Behavioral Health Florida
+Cenpatico Behavioral Health Georgia
+Cenpatico Behavioral Health Indiana
+Cenpatico Behavioral Health Kansas
+Cenpatico Behavioral Health Kentucky
+Cenpatico Behavioral Health Massachusetts
+Cenpatico Behavioral Health Mississippi
+Cenpatico Behavioral Health Ohio
+Cenpatico Behavioral Health South Carolina
+Cenpatico Behavioral Health Texas
+Cenpatico Behavioral Health Wisconsin
+Central California Alliance for Health
+Central Reserve Life Insurance Company - Medicare Supplement
+Central States Health And Welfare Fund
+CHAMPVA Health Administration Center
+Christian Brothers Services
+Cigna
+Cigna - Allegiance
+Cigna Connecticut General
+Cigna Healthspring
+Cigna Supplemental
+Clear Health Alliance
+Clover Health LLC - Medicare Advantage
+Colonial Penn Life
+Colorado Access
+Colorado Community Health Alliance
+Combined Insurance Company of America
+Community Care Managed Health Care Plans of Oklahoma
+Community Health Choice
+Community Health Direct (ProHealth Community Employees)
+Community Health Group
+Community Health Plan of Washington
+Compsych
+Connecticare, Inc
+Consolidated Associates Railroad
+Conversion Plan APWU
+Cook Childrens Health Plan
+Coordinated Care
+CoreSource (FMH)
+CountyCare (Medicaid IL MCO)
+DAKOTACARE
+Dental Only - Ameritas Life Insurance Corporation
+Dental Only - CareFirst BCBS Maryland
+Dental Only - Delta Dental Federal Services
+Dental Only - Delta Dental Iowa
+Dental Only - Delta Dental New Jersey
+Dental Only - Delta Dental New Mexico
+Dental Only - Delta Dental New York
+Dental Only - Delta Dental of Maryland and Pennsylvania
+Dental Only - Delta Dental South Carolina
+Dental Only - Delta Dental Texas
+Dental Only - Delta Dental Virginia
+Dental Only - DentaQuest
+Dental Only - Kentucky Medicaid
+Dental Only - Managed Care of North America (MCNA)
+Dental Only - MetLife
+Dental Only - Premera Blue Cross
+Dental Only - United Concordia Fee for Service
+Dental Only - United Healthcare
+Deseret Mutual DMBA
+Devoted Health
+Directors Guild of America Producer Health Plan
+DMERC Region A
+DMERC Region B
+DMERC Region C
+DMERC Region D
+Doctors Healthcare Plans (Medicare Advantage)
+Eagle Creek Medical Plaza
+Educators Mutual (EMIA)
+Elderplan, Inc
+Emblem Health (GHI - New York Group Health Inc)
+Empire BCBS HealthPlus
+Empire BCBS New York
+Empire Plan (United Healthcare)
+Employee Benefit Management Services, Inc (EBMS)
+Empower Arkansas
+Equicor / Equitable
+Equicor PPO
+Essence Healthcare
+Excellus BCBS Rochester Region
+Excellus BCBS Utica Watertown Region
+Fallon Community Health Plan
+Fidelis Care New York
+Fidelis Care New York (Medicare Advantage)
+First Choice Health Network
+First Medical Network
+First Seniority Freedom
+FirstCare
+Florida Health Care Plans
+Freedom Health Plan
+Fringe Benefit Group Inc (Lone Star TPA)
+Gateway Health Plan (Medicaid Pennsylvania)
+Gateway Health Plan (Medicare Assured) Pennsylvania
+Geisinger Health Plan
+Gilsbar, Inc
+Globe Life and Accident Insurance
+Golden Rule
+Government Employees Health Association (GEHA)-Mental Health
+Government Employees Hospital Association (GEHA)
+Granite State Health Plan
+Great West
+Harvard Pilgrim Health Care
+Hawaii Medical Service Association (HMSA)
+Health Alliance Plan (HAP)
+Health Choice of Arizona
+Health First Health Plan
+Health Insurance Plan Greater New York (HIP- Emblem)
+Health Net Claims (California, Oregon)
+Health Net National
+Health Partners of Pennsylvania
+Health Plan of San Joaquin
+Health Plan of San Mateo
+Health Value Management, Inc
+Healthcare Management Administrators, Inc (HMA)
+Healthchoice Oklahoma
+HealthChoice Select
+HealthComp, Inc
+HealthEZ
+Healthfirst, Inc
+HealthKeepers
+HealthNow BCBS Western New York
+HealthNow BlueShield of Northeastern New York
+HealthPartners (MN)
+HealthSCOPE Benefits, Inc
+HealthSmart Benefit Solutions Group AAG (Gallagher Benefits)
+Healthsource Arkansas (Med) (Cigna)
+Healthsource Georgia
+Healthsource Kentucky
+Healthsource Maine
+Healthsource Massachusetts
+Healthsource New Hampshire
+Healthsource North Carolina
+Healthsource North Texas (Cigna)
+Healthsource Ohio
+Healthsource Provident
+Healthsource South Carolina
+Healthsource Tennessee
+HealthSpring HMO - HealthSpring Medicare Choice
+Healthy Blue Louisiana
+Healthy Blue Missouri
+Healthy Blue Nebraska
+Healthy Blue North Carolina
+Healthy Blue South Carolina
+Hennepin Health
+Highmark BCBS Delaware
+Highmark BCBS Pennsylvania (Institutional Central)
+Highmark BCBS Pennsylvania (Institutional Western)
+Highmark BCBS Pennsylvania (Professional)
+Highmark BCBS West Virginia
+Highmark BCBSD Health Options Inc.
+Highmark Senior Health (Medicare Advantage PA Institutional)
+Highmark Senior Health (Medicare Advantage PA Professional)
+HMA Hawaii
+Home State Health Plan
+Hopkins Health Advantage
+Horizon BCBS New Jersey
+Horizon NJ Health
+HSBS Memphis (formerly Pittman & Associates)
+Hudson Health Plan, an MVP Health Care Company
+Humana
+Humana (Medicare Advantage)
+Humana CareSource Medicaid Kentucky DOS Prior to 1.1.2020
+Humana Health Plans of Ohio
+Humana Long Term Care
+IBC Personal Choice Pennsylvania
+IlliniCare Health Plan (Medicaid IL MCO)
+Imagine360 Administrators (GPA)
+Independence Administrators
+Independence Blue Cross Pennsylvania
+Independent Health
+Inland Empire Health Plan
+Innovation Health
+Integra Administrative Group (Seaford, Delaware)
+Inter Valley Health Plan
+Iowa Total Care
+IU Health Plans (Commercial)
+IU Health Plans (Medicare Advantage)
+Jai Medical Systems
+Johns Hopkins Healthcare (EHP/Priority Partners)
+Johns Hopkins Healthcare (USFHP)
+Kaiser Foundation Health Plan of Colorado
+Kaiser Foundation Health Plan of Northern California Region
+Kaiser Foundation Health Plan of Southern California Region
+Kaiser Foundation Health Plan of Washington
+Kaiser Foundation of the Northwest
+Kaiser Mid-Atlantic
+Kaiser Permanente (Georgia)
+KanCare (United Healthcare Community Plan Kansas)
+Kelsey-Seybold
+Key Benefit Administrators, Inc (Indianapolis, Indiana)
+Keystone First (formerly Keystone Mercy Health Plan)
+Keystone First Community HealthChoices
+Keystone Health Plan East
+LA Care (California)
+LA Care - California (Medicare Advantage)
+LifeWise Health Plan of Washington, A Premera Health Plan
+Lincoln National (Humana)
+Louisiana Healthcare Connections
+Magellan Health Services
+MagnaCare
+Magnolia Health Plan
+Mailhandlers  Mental Health Claims
+Managed Care Indemnity, Inc
+Managed Health Services Indiana
+Managed Health Services Wisconsin
+Managed Healthcare Administration
+Managed Healthcare Administration (MHCA) Blue Choice
+Managed Prescription Services, Inc
+March Vision Care Inc.
+Maryland Physicians Care
+Maryland Physicians Care (DOS Prior to 1.1.2021)
+Massachusetts Behavioral Health (BHO)
+McLaren Advantage (MHP) (HMO)
+McLaren Health Plan (MHP)
+McLaren Health Plan (MHP) Medicaid
+McLaren Medicare Supplement
+Medbenefixx, Inc
+MedCost, LLC
+Medica
+Medica (Medicare Advantage)
+Medica Health Plan Solutions
+Medica2
+Medicaid Alabama
+Medicaid Arizona
+Medicaid Arkansas
+Medicaid California (Medi-Cal)
+Medicaid Colorado
+Medicaid Connecticut
+Medicaid DC
+Medicaid Delaware
+Medicaid Florida
+Medicaid Georgia
+Medicaid Hawaii
+Medicaid Idaho
+Medicaid Illinois
+Medicaid Indiana
+Medicaid Iowa
+Medicaid Kansas
+Medicaid Kentucky
+Medicaid Louisiana
+Medicaid Maine
+Medicaid Maryland DHMH
+Medicaid Massachusetts
+Medicaid Michigan
+Medicaid Minnesota
+Medicaid Mississippi
+Medicaid Missouri
+Medicaid Montana
+Medicaid Nebraska
+Medicaid Nevada
+Medicaid New Jersey
+Medicaid New Mexico
+Medicaid New York
+Medicaid North Carolina
+Medicaid North Dakota
+Medicaid Ohio
+Medicaid Oklahoma (Sooner Care)
+Medicaid Oregon
+Medicaid Pennsylvania
+Medicaid South Carolina
+Medicaid South Dakota
+Medicaid Tennessee
+Medicaid Tennessee BlueCare Tenncare Select
+Medicaid Texas and Texas Health Steps
+Medicaid Utah
+Medicaid Virginia
+Medicaid Washington
+Medicaid West Virginia
+Medicaid Wisconsin
+Medicaid Wyoming
+Medical Mutual
+Medical Mutual (Medicare Advantage)
+Medical Plan of Kansas City, MO (Humana)
+Medicare Alabama
+Medicare Alaska
+Medicare Arizona Part A
+Medicare Arizona Part B
+Medicare Arkansas
+Medicare California Part A
+Medicare California Part A J1 Legacy
+Medicare Colorado
+Medicare Connecticut
+Medicare DC
+Medicare DC Part A
+Medicare Delaware
+Medicare Florida
+Medicare Georgia
+Medicare Hawaii Part A
+Medicare Hawaii Part B
+Medicare Idaho
+Medicare Illinois
+Medicare Indiana
+Medicare Iowa
+Medicare Kansas
+Medicare Kentucky
+Medicare Louisiana
+Medicare Maine
+Medicare Maryland Part A
+Medicare Maryland Part B
+Medicare Massachusetts
+Medicare Michigan
+Medicare Minnesota
+Medicare Mississippi
+Medicare Missouri
+Medicare Missouri Part A (J5)
+Medicare Montana
+Medicare Nebraska
+Medicare Nevada Part A
+Medicare Nevada Part B
+Medicare New Hampshire
+Medicare New Jersey Part A
+Medicare New Jersey Part B
+Medicare New Mexico
+Medicare New York (Downstate)
+Medicare New York (Queens County)
+Medicare New York (Upstate)
+Medicare New York Part A
+Medicare North California
+Medicare North Carolina
+Medicare North Dakota
+Medicare Ohio
+Medicare Oklahoma
+Medicare Oregon
+Medicare Part A - Legacy Mutual of Omaha - WPS
+Medicare Part A - Legacy WPS (J4) (CO, NM, OK, & TX)
+Medicare Part A Home Health & Hospice (J15) CGS
+Medicare Part A Home Health & Hospice (J6) NGS
+Medicare Part A Home Health & Hospice (JM) Palmetto
+Medicare Part A NOE Home Health & Hospice (J15) CGS
+Medicare Part A NOE Home Health & Hospice (JM) Palmetto
+Medicare Pennsylvania Part A
+Medicare Pennsylvania Part B
+Medicare Puerto Rico
+Medicare Railroad
+Medicare Rhode Island
+Medicare South California
+Medicare South Carolina
+Medicare South Dakota
+Medicare Tennessee
+Medicare Texas
+Medicare Texas Part A
+Medicare U.S. Virgin Islands Part B
+Medicare Utah
+Medicare Vermont
+Medicare Vermont Part A (J14)
+Medicare Virginia
+Medicare Washington
+Medicare West Virginia
+Medicare Wisconsin
+Medicare Wisconsin Part A & FQHC (J6)
+Medicare Wyoming
+Medicare y Mucho Mas (Medicare Advantage)
+Medico Insurance Company
+MediGold (Medicare Advantage)
+Mercy Care Plan (AHCCCS)
+Mercy Maricopa Integrated Care
+Meridian Health Plan (Medicaid MI - Complete)
+Meridian Illinois (MeridianHealth-Complete-Total-YouthCare)
+MeridianComplete (IlliniCare Health Plan Medicaid IL - MMP)
+MeridianHealth Medicaid Illinois Complete
+Meritain Health (formerly Weyco, Inc.)
+Meritain Health (Minneapolis, Minnesota)
+Meritain Health (Richardson, Texas)
+Meritain Health / Agency Services
+Met Life
+MetraHealth Plans (United Healthcare)
+MetroPlus Health Plan
+MetroPlus Health Plan (Medicare Advantage)
+Metropolitan Life Insurance Company
+Michael Reese HMO
+Moda Health (formerly ODS Health Plan)
+Molina Complete Care Arizona
+Molina Complete Care Virginia
+Molina Healthcare (Medicaid IL MCO)
+Molina Healthcare California
+Molina Healthcare Florida
+Molina Healthcare Michigan
+Molina Healthcare Nevada
+Molina Healthcare New Mexico SALUD
+Molina Healthcare of Idaho
+Molina Healthcare Ohio (Medicaid)
+Molina Healthcare Ohio (Medicare Options Plus)
+Molina Healthcare Ohio (MyCare)
+Molina Healthcare Texas (Medicaid)
+Molina Healthcare Utah
+Molina Healthcare Washington
+Montefiore Contract Management Organization
+Mutual Health Services
+Mutual Of Omaha Insurance Company
+MVP Health Plan of New York
+National Association of Letter Carriers (NALC)
+National Telecommunications Cooperative Association (NTCA)
+Nebraska Total Care
+Neighborhood Health Plan of Rhode Island (NHPRI)
+Network Health Insurance Corp-Medicare
+Network Health Plan of Wisconsin, Inc
+New York State Employees (Empire)
+NextBlue (Medicare Advantage)
+Nippon Life Insurance Company
+Nova Healthcare Administrators, Inc (Grand Island, New York)
+Ochsner Health Plan
+OptumCare
+OptumHealth Behavioral Solutions (United Behavioral Health)
+Oscar Health Insurance
+Oscar Health Insurance (Medicare Advantage)
+Oxford Health Plans
+Oxford Health Plans (Medicare Advantage)
+PacificSource CCO
+Pacificsource Health Plans
+PacificSource Medicare
+Pan-American Life Insurance Company
+Paramount
+Parkland Community Health Plan
+Partnership HealthPlan of California
+Passport Health Plan
+PCA Health Plans of Texas (Humana)
+PCA Star Medicaid (Humana)
+Peach State Health Plan
+Peak Health
+Penn Treaty Life Insurance (CHCS Services)
+Pennsylvania Health and Wellness
+Peoples Health Network
+Physicians Health Plan (PHP) Indiana
+Physicians Health Plan (PHP) Michigan
+Physicians Mutual Insurance Company
+Plan de Salud Menonita (Puerto Rico)
+Planned Administrators, Inc (PAI)
+Preferred Care Partners -Florida (Medicare Advantage)
+Preferred Medicare Choice
+PreferredOne (Minnesota)
+Premera BC Washington
+Premera BCBS Alaska
+Premier Healthcare Exchange (Cypress Benefits)
+Prestige Health Choice
+Prime Benefits Systems, Inc
+Prime Health Management Services, Inc
+Priority Health
+Prominence Health Plan (formerly Saint Mary's Health Plan)
+Providence Choice Option
+Providence Good Health Plan
+Providence Health Plan (PPO)
+Providence of Oregon Health Plan
+QualChoice Health Insurance
+QualChoice of Arkansas
+Quartz
+Quartz Administrative Services Organization (ASO)
+Randmark, Inc
+Recall Systems Corporate Benefits Services
+Regence BCBS Oregon
+Regence BCBS Utah
+Regence BS Idaho
+Regence BS Washington
+Regence Group Administrators
+Reserve National Insurance
+Rocky Mountain Health Plan
+SAMBA
+San Francisco Health Plan
+Sana Benefits
+Sanford Health Plan
+Santa Clara Family Health Plan
+SCAN Health Plan California
+Scott & White Healthcare
+Secure Horizons (United Healthcare)
+Security Health Plan
+Select Health of South Carolina
+SelectHealth
+Senior Whole Health New York
+Sentara Health Management
+Sentinel Security Life Insurance Company
+Sharp Health Plan
+Significa Benefits Services, Inc
+SIHO (Southeastern Indiana Health Organization)
+Simply Healthcare
+SISCO
+Standard Life and Accident Insurance Company
+State Farm Insurance (All States)
+Student Insurance
+SummaCare Health Plan
+Sunflower State Health Plan
+Sunshine Health
+Sunshine Health (Medicare Advantage)
+Superior Health Plan Texas (Medicaid)
+Sutter Health Plus
+Texas Children's Health Plan CHIP
+The Health Plan of Upper Ohio Valley
+The Loomis Company- TPA Wyomissing, PA (IHS Gateway Payer)
+The Travelers (United Healthcare)
+Transamerica Life Insurance Company
+Transamerica Premier Life Insurance Company
+Tricare East
+TRICARE for Life (Previous Connection)
+Tricare Overseas (Previous Connection)
+TRICARE West
+Triple S Incorporated
+Triple-S Advantage
+Truli Health
+Trustmark Health Benefits (CoreSource KS)
+Trustmark Health Benefits (CoreSource MD, PA, IL)
+Trustmark Health Benfits (Coresource AK)
+Trustmark Insurance Company
+Tufts Health Public Plan (Network Health)
+UCare (Medicaid Plans)
+UCare (Medicare Plans)
+UCare Individual and Family Plans (Marketplace)
+Ultimate Health Plan
+UMR Wausau
+UMWA Health and Retirement Funds
+UniCare
+Union Fidelity Life Insurance
+Union Pacific Railroad Employees
+Unison Health Plan / Better Health Plans
+United American Insurance Company
+United Healthcare (Medicare Advantage)
+United Healthcare Community Plan (Medicaid-Dual Multiple States)
+United Healthcare Community Plan (Tennessee)
+United Healthcare Direct
+United Healthcare of River Valley (formerly John Deere)
+United Healthcare Ovations (AARP)
+United States Automobile Association (USAA)
+United Teacher Associates - Medicare Supplement
+UnitedHealthcare Community Plan (formerly Unison)
+UnitedHealthcare Community Plan - New Jersey FamilyCare
+UnitedHealthcare Community Plan AZ (Arizona Physicians IPA)
+UnitedHealthcare Community Plan NJ (Americhoice NJ Medicaid)
+UnitedHealthcare Community Plan NY (Americhoice NY Medicaid)
+UnitedHealthcare Community Plan NYU (Personal Care Plus)
+UnitedHealthcare Integrated Shared Services (UHIS)
+UnitedHealthcare Medicare Chronic Complete (Evercare)
+Univera Healthcare
+University Family Care
+University Family Care (Arizona)
+University of Utah Health Plans
+UPMC Health Plan
+US Family Health Plan
+USAA Life Insurance Company
+Utah Public Employee Health Plan (PEHP)
+VA Fee Basis Programs
+Valley Health Plan (Medi-Cal)
+Varipro
+Vibra Health Plan
+Virginia Surety Company
+Viva Health Plan
+VNS Choice Medicare
+Vytra Healthcare
+Washington National Insurance Company
+WebTPA Employer Services LLC
+WellCare Health Plans
+WellCare Health Plans (Medicare Advantage)
+Wellmark BCBS Iowa
+Wellmark BCBS South Dakota
+Wellnet
+Western Health Advantage
+Western Southern Financial Group
+Wisconsin Physician Service Group Health (WPS)
+Worldwide Medical Assurance LTD Corp
+YouthCare HealthChoice Illinois
+Zing Health
